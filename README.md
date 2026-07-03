@@ -1,4 +1,4 @@
-This project focuses on analyzing real-world terrorism incident data to predict the success of terrorist attacks and uncover hidden patterns using machine learning techniques. By applying both supervised and unsupervised learning models, the study aims to support data-driven insights for security analysis and preventive strategy formulation.
+This project focuses on analyzing real-world terrorism incident data to predict the severity of terrorist attacks and uncover hidden patterns using machine learning techniques. By applying both supervised and unsupervised learning models, the study aims to support data-driven insights for security analysis and preventive strategy formulation.
 
 The dataset consists of 4,960 terrorism incidents with features related to time, location, attack type, target type, weapon type, casualties, and suicide involvement. Careful preprocessing techniques were applied, including missing value handling, feature selection, and Min–Max normalization to ensure reliable model performance.
 
